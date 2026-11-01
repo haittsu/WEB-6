@@ -36,4 +36,4 @@ In the repository settings, open **Pages**, choose the `main` branch and `/ (roo
 - `index.html` — landing page and lesson roadmap
 - `task.html` — shared lesson page shell
 - `styles.css` — responsive visual design
-- `app.js` — lesson content and jQuery interactions
+- `app.js` — lesson content and jQuery interaction
